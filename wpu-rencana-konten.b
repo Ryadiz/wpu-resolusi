@@ -4,6 +4,7 @@ RENCANA KONTEN WPU
 * ES6
 * Franeworks Japascript
   ^ Vue
+  ^ React
 - Struktur data dasar
 - PHP franeworks
   ^ Laravel
