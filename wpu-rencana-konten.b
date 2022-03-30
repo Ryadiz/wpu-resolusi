@@ -3,9 +3,11 @@ RENCANA KONTEN WPU
 - Japascript
 * ES6
 * Franeworks Japascript
-  ^ Angular
+  ^ Vue
   ^ React
+- Struktur data dasar
 - PHP franeworks
-^ Laravel  
+  ^ Laravel
 - Interview
 - Vlogs
+- Python
